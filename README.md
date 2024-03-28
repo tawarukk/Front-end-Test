@@ -1,5 +1,5 @@
 # Front-end-Test
-การสอบสมัครงาน Front-end-Test [Dudee indee]
+การสอบสมัครงาน Front-end-Test [Dudee indeed]
 ทั้งหมดสองส่วน คือ
 
 1.แบบทดสอบตําแหน่ง Front-end [Laundromat_Project] 
